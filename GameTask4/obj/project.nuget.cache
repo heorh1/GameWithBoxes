@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z9W8ywgTKn4=",
+  "success": true,
+  "projectFilePath": "D:\\TaskMortyGame\\gameTask4\\GameTask4\\GameTask4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bouncycastle.netcore\\2.2.1\\bouncycastle.netcore.2.2.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\consoletables\\2.7.0\\consoletables.2.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
